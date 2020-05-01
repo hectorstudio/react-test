@@ -1,0 +1,14 @@
+.main-container {
+  text-align: left;
+  .profile-container {
+    margin: 20px 30px;
+    .title {
+      p {
+        line-height: 2;
+      }
+    }
+    .content {
+      display: block;
+    }
+  }
+}

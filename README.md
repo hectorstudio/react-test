@@ -1,3 +1,15 @@
+## Tasks
+Here are the requirements for this test. We tried to be as specific, yet let you some room for creativity:
+- React Class component app
+- Desktop and mobile versions
+- Get user full name from API
+- Get user profile from API
+- Get user email from API
+- Users should be ordered by inverse alphabet from Z -> A and only show 10 users in total
+- Button “set up your account” should open google.com in a new tab
+- SVG icons in top navigation should have a hover color of #CD845C
+- Bonus points for showing some animations
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
